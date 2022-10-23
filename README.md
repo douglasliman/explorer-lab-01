@@ -16,7 +16,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <br>
-
+-[Clique Aqui para Visitar] (https://explorer-lab-01-two-iota.vercel.app).
+<br>
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
